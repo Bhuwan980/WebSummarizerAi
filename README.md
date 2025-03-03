@@ -43,4 +43,4 @@ python summarize.py "https://example.com"
 
 ---
 
-💡 **Made with ❤️ by Bhuwan Bahadur Neupane**  
+💡 **Made by Bhuwan Bahadur Neupane**  
