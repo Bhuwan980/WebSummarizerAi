@@ -1,52 +1,46 @@
-WebSummarizerAI
+Here’s a well-formatted and stylish README.md file for your WebSummarizerAI project:
 
-Overview
+# 🌐 WebSummarizerAI 🚀  
 
-WebSummarizerAI is an AI-powered tool that extracts and summarizes text from web pages using OpenAI's API. It scrapes website content, processes the text, and generates concise summaries, making it ideal for quick information retrieval and content analysis.
+WebSummarizerAI is an AI-powered tool that extracts and summarizes text from any given website URL using OpenAI's API. It simplifies long web pages into concise and meaningful summaries, saving time and improving readability.  
 
-Features
+## ✨ Features  
+- 🕵️‍♂️ Scrapes and extracts text from web pages  
+- 🤖 Uses OpenAI's API to generate accurate summaries  
+- ⚡ Fast and efficient text processing  
+- 🛠️ Easy to integrate and use  
 
-Extracts text from web pages
+## 🛠️ Installation  
 
-Uses OpenAI's API to generate summaries
-
-Provides quick and concise content analysis
-
-Ideal for researchers, students, and professionals
-
-Installation
-
-Clone the repository:
-
+Clone the repository:  
+```bash
 git clone git@github.com:Bhuwan980/WebSummarizerAi.git
 cd WebSummarizerAi
+```
 
-Install dependencies:
-
+Install dependencies:  
+```bash
 pip install -r requirements.txt
+```
 
-Usage
+## 🚀 Usage  
 
-Run the script with a website URL:
+Run the tool with a website URL:  
+```bash
+python summarize.py "https://example.com"
+```
 
-python summarize.py --url "https://example.com"
+## 📌 Requirements  
+- Python 3.x  
+- OpenAI API Key  
+- BeautifulSoup4 for web scraping  
 
-Requirements
+## 🏗️ Future Improvements  
+- 🔍 Support for summarizing PDFs & articles  
+- 🎙️ AI-powered voice summary  
+- 📊 Summary analytics & insights  
 
-Python 3.x
 
-OpenAI API key
+---
 
-BeautifulSoup for web scraping
-
-Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
-License
-
-This project is licensed under the MIT License.
-
-Author
-
-Bhuwan Bahadur Neupane
+💡 **Made with ❤️ by Bhuwan Bahadur Neupane**  
